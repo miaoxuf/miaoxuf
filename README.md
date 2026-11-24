@@ -67,19 +67,4 @@ class MiaoxuFang(Researcher):
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,ros,matlab,linux,docker,git,latex&theme=dark" alt="Python, C++, PyTorch, ROS, MATLAB, Linux, Docker, Git, LaTeX" />
 </p>
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/miaoxuf/miaoxuf/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miaoxuf/miaoxuf/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/miaoxuf/miaoxuf/output/github-snake.svg" />
-  </picture>
-</p>
-
 <p align="center"><sub>Always happy to talk robots, controllers, and factories that run themselves.</sub></p>
